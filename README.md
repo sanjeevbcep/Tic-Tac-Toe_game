@@ -1,3 +1,3 @@
 Tic Tac Toe game
 To play click here
-http://bcemart.me/Tic-Tac-Toe/
+https://sanjeevbcep.github.io/Tic-Tac-Toe_game/
